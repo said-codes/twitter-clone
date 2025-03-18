@@ -1,4 +1,4 @@
-# Django-Vue.js To-Do App
+# Twitter clone
 
 Este proyecto es un clone de twitter que utiliza Django para el backend y Vue.js para el frontend.
 
